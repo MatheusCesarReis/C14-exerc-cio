@@ -1,6 +1,7 @@
 # C14-exerc-cio
 Para realizar a atividade
-configurações do projeto/dependecias 
+
+#configurações do projeto/dependecias 
 
 <dependencies>
         <dependency>
