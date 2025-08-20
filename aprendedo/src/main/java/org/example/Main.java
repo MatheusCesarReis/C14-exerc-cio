@@ -6,6 +6,7 @@ import org.apache.commons.lang3.StringUtils;
 public class Main {
     public static void main(String[] args) {
         String nome = "   Matheus   ";
+        String nome1 = " Tiago ";
 
         // Remove espaços do início e do fim
         System.out.println(StringUtils.trim(nome)); // "Matheus"

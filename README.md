@@ -1,5 +1,6 @@
 # C14-exerc-cio
 Para realizar a atividade
+O bjetivo desta atividade é capacitar os alunos no uso prático de Git e GitHub, focando em gerenciamento de repositórios, versionamento de código e resolução de conflitos.
 
 #configurações do projeto/dependecias 
 
