@@ -1,7 +1,9 @@
 # C14-exerc-cio
-Para realizar a atividade
+#Para que ele serve
 
-#configurações do projeto/dependecias 
+ele é um projeto que tem a capacidade de verificar se existe espaçamento na string
+
+#dependecia 
 
 <dependencies>
         <dependency>
@@ -11,4 +13,6 @@ Para realizar a atividade
         </dependency>
 </dependencies>
 
-ele permite ignorar os espaços
+#como buidar 
+
+devera reistalar jdk e baixar as dependecias pelo seu arquivo .xml
