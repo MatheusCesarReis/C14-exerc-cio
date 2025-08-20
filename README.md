@@ -2,7 +2,9 @@
 Para realizar a atividade
 O bjetivo desta atividade é capacitar os alunos no uso prático de Git e GitHub, focando em gerenciamento de repositórios, versionamento de código e resolução de conflitos.
 
-#configurações do projeto/dependecias 
+ele é um projeto que tem a capacidade de verificar se existe espaçamento na string
+
+#dependecia 
 
 <dependencies>
         <dependency>
@@ -12,4 +14,6 @@ O bjetivo desta atividade é capacitar os alunos no uso prático de Git e GitHub
         </dependency>
 </dependencies>
 
-ele permite ignorar os espaços
+#como buidar 
+
+devera reistalar jdk e baixar as dependecias pelo seu arquivo .xml
